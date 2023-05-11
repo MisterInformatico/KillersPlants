@@ -1,0 +1,3 @@
+# Pantalla
+SCREEN_WIDTH = 854
+SCREEN_HEIGHT = 480
